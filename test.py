@@ -3,5 +3,5 @@ def sum():
     b = 10
     c = a + b
     return c
-
+print(sum())
 print(sum())
