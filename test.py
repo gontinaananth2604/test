@@ -7,4 +7,3 @@ print(sum())
 print(sum())
 #test the code
 print(sum())
-#uyeyeowiwyuyye
