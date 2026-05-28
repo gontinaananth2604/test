@@ -5,3 +5,5 @@ def sum():
     return c
 print(sum())
 print(sum())
+#test the code
+print(sum())
